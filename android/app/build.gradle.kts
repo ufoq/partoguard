@@ -4,6 +4,8 @@ plugins {
     alias(libs.plugins.kotlin.compose)
 }
 
+import java.util.Properties
+
 kotlin {
     compilerOptions {
         jvmTarget.set(org.jetbrains.kotlin.gradle.dsl.JvmTarget.JVM_17)
@@ -25,10 +27,16 @@ android {
 
     signingConfigs {
         create("release") {
-            storeFile = file("/root/keys/demo.jks")
-            storePassword = "partoguard123"
-            keyAlias = "demo_alias"
-            keyPassword = "partoguard123"
+            val props = Properties()
+            val lp = rootProject.file("local.properties")
+            if (lp.exists()) props.load(lp.reader())
+            val sf = props.getProperty("signing.storeFile") ?: System.getenv("SIGNING_STORE_FILE")
+            if (sf != null) {
+                storeFile = file(sf)
+                storePassword = props.getProperty("signing.storePassword") ?: System.getenv("SIGNING_STORE_PASSWORD") ?: ""
+                keyAlias = props.getProperty("signing.keyAlias") ?: System.getenv("SIGNING_KEY_ALIAS") ?: ""
+                keyPassword = props.getProperty("signing.keyPassword") ?: System.getenv("SIGNING_KEY_PASSWORD") ?: ""
+            }
         }
     }
 

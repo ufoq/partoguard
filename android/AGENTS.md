@@ -57,9 +57,9 @@ android/
 - **`session.forcedOutcome` is consumed once** — `MockPartographExtractor.consumeForcedOutcome()` clears it immediately after reading.
 - **Camera override behaviour**: real preview always shown; mock Bitmap injected at `onCaptureSuccess`, not at preview. `OVERRIDE_ASSETS` map in `CameraScreen.kt`.
 - **`usesCleartextTraffic="true"` in manifest** — HTTP is enabled for now; upgrade to HTTPS + TOFU trust manager when ready.
-- **`GEMMA_SERVER_BASE_URL` in `PartoGuardApp.kt`** — single source of truth for the server URL; `http://192.168.0.33:56080` for device on local network, `http://vps-box:8080` for dev machine direct.
+- **`GEMMA_SERVER_BASE_URL` in `PartoGuardApp.kt`** — single source of truth for the server URL; override via `local.properties` (`signing.storeFile` etc.) or point to your own llama-server instance.
 - **`RemotePartographExtractor` media_marker cache** — valid for the lifetime of one llama-server instance; auto-invalidated on HTTP 5xx.
-- **Release signing** uses `demo.jks` at `/root/keys/demo.jks` (password: `partoguard123`) — demo creds, not production.
+- **Release signing** — configured via `local.properties` (not committed) or `SIGNING_*` environment variables; see `app/build.gradle.kts`.
 
 ## NAVIGATION FLOW
 
@@ -84,6 +84,6 @@ MANUAL   : HOME → REVIEW (empty seed) → RESULTS
 cd android
 ./gradlew assembleDebug          # Debug APK
 ./gradlew installDebug           # Install on connected device
-./gradlew assembleRelease        # Release APK (needs /root/keys/demo.jks)
+./gradlew assembleRelease        # Release APK (needs signing config in local.properties)
 ./gradlew lint
 ```

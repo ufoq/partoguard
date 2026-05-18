@@ -189,7 +189,7 @@ fun SettingsScreen(
                             ExtractorSelector.setCustomUrl(context, it)
                         },
                         label = { Text("Server URL") },
-                        placeholder = { Text("http://192.168.0.33:8080") },
+                        placeholder = { Text("http://your-server:8080") },
                         singleLine = true,
                         keyboardOptions = KeyboardOptions(
                             keyboardType = KeyboardType.Uri,
