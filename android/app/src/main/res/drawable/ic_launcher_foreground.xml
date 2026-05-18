@@ -1,0 +1,53 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Grid -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M24,78 L84,78 M24,66 L84,66 M24,54 L84,54 M24,42 L84,42 M24,30 L84,30 M24,78 L24,30 M36,78 L36,30 M48,78 L48,30 M60,78 L60,30 M72,78 L72,30 M84,78 L84,30"
+        android:strokeColor="#40FFFFFF"
+        android:strokeWidth="1.5" />
+
+    <!-- Alert line -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M24,78 L72,30"
+        android:strokeColor="#F4A700"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round" />
+
+    <!-- Action line -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M36,78 L84,30"
+        android:strokeColor="#C62828"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round" />
+
+    <!-- Cervicograph line -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M24,78 C30,78 36,76 40,68 C46,56 52,42 66,34"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="4.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+    <!-- Plot markers -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M20.5,78 a3.5,3.5 0 1,0 7,0 a3.5,3.5 0 1,0 -7,0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M36.5,68 a3.5,3.5 0 1,0 7,0 a3.5,3.5 0 1,0 -7,0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M46.5,49.5 a3.5,3.5 0 1,0 7,0 a3.5,3.5 0 1,0 -7,0" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M62.5,34 a3.5,3.5 0 1,0 7,0 a3.5,3.5 0 1,0 -7,0" />
+
+</vector>

@@ -1,0 +1,8 @@
+{
+  "include": ["."],
+  "exclude": ["data", "*.egg-info", "__pycache__", "../.venv", "../.venv/**"],
+  "venvPath": "..",
+  "venv": ".venv",
+  "extraPaths": [".."],
+  "pythonVersion": "3.11"
+}

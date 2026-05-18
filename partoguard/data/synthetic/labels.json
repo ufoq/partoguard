@@ -1,0 +1,512 @@
+[
+  {
+    "file": "partoguard/data/synthetic/normal_progress_clean_crop.png",
+    "scenario": "normal_progress",
+    "expected_zone": "normal",
+    "variant": "clean_crop",
+    "synthetic": true,
+    "clinical_use": false,
+    "points": [
+      {
+        "hours": 0.0,
+        "dilation_cm": 4.0
+      },
+      {
+        "hours": 1.0,
+        "dilation_cm": 5.0
+      },
+      {
+        "hours": 2.0,
+        "dilation_cm": 6.0
+      },
+      {
+        "hours": 3.0,
+        "dilation_cm": 7.0
+      },
+      {
+        "hours": 4.0,
+        "dilation_cm": 8.0
+      },
+      {
+        "hours": 5.0,
+        "dilation_cm": 9.0
+      },
+      {
+        "hours": 6.0,
+        "dilation_cm": 10.0
+      }
+    ],
+    "description": "4cm at 0h to 10cm at 6h \u2014 stays left of Alert line"
+  },
+  {
+    "file": "partoguard/data/synthetic/normal_progress_moderate_crop.png",
+    "scenario": "normal_progress",
+    "expected_zone": "normal",
+    "variant": "moderate_crop",
+    "synthetic": true,
+    "clinical_use": false,
+    "points": [
+      {
+        "hours": 0.0,
+        "dilation_cm": 4.0
+      },
+      {
+        "hours": 1.0,
+        "dilation_cm": 5.0
+      },
+      {
+        "hours": 2.0,
+        "dilation_cm": 6.0
+      },
+      {
+        "hours": 3.0,
+        "dilation_cm": 7.0
+      },
+      {
+        "hours": 4.0,
+        "dilation_cm": 8.0
+      },
+      {
+        "hours": 5.0,
+        "dilation_cm": 9.0
+      },
+      {
+        "hours": 6.0,
+        "dilation_cm": 10.0
+      }
+    ],
+    "description": "4cm at 0h to 10cm at 6h \u2014 stays left of Alert line"
+  },
+  {
+    "file": "partoguard/data/synthetic/normal_progress_heavy_crop.png",
+    "scenario": "normal_progress",
+    "expected_zone": "normal",
+    "variant": "heavy_crop",
+    "synthetic": true,
+    "clinical_use": false,
+    "points": [
+      {
+        "hours": 0.0,
+        "dilation_cm": 4.0
+      },
+      {
+        "hours": 1.0,
+        "dilation_cm": 5.0
+      },
+      {
+        "hours": 2.0,
+        "dilation_cm": 6.0
+      },
+      {
+        "hours": 3.0,
+        "dilation_cm": 7.0
+      },
+      {
+        "hours": 4.0,
+        "dilation_cm": 8.0
+      },
+      {
+        "hours": 5.0,
+        "dilation_cm": 9.0
+      },
+      {
+        "hours": 6.0,
+        "dilation_cm": 10.0
+      }
+    ],
+    "description": "4cm at 0h to 10cm at 6h \u2014 stays left of Alert line"
+  },
+  {
+    "file": "partoguard/data/synthetic/normal_progress_clean_fullpage.png",
+    "scenario": "normal_progress",
+    "expected_zone": "normal",
+    "variant": "clean_fullpage",
+    "synthetic": true,
+    "clinical_use": false,
+    "points": [
+      {
+        "hours": 0.0,
+        "dilation_cm": 4.0
+      },
+      {
+        "hours": 1.0,
+        "dilation_cm": 5.0
+      },
+      {
+        "hours": 2.0,
+        "dilation_cm": 6.0
+      },
+      {
+        "hours": 3.0,
+        "dilation_cm": 7.0
+      },
+      {
+        "hours": 4.0,
+        "dilation_cm": 8.0
+      },
+      {
+        "hours": 5.0,
+        "dilation_cm": 9.0
+      },
+      {
+        "hours": 6.0,
+        "dilation_cm": 10.0
+      }
+    ],
+    "description": "4cm at 0h to 10cm at 6h \u2014 stays left of Alert line"
+  },
+  {
+    "file": "partoguard/data/synthetic/normal_progress_moderate_fullpage.png",
+    "scenario": "normal_progress",
+    "expected_zone": "normal",
+    "variant": "moderate_fullpage",
+    "synthetic": true,
+    "clinical_use": false,
+    "points": [
+      {
+        "hours": 0.0,
+        "dilation_cm": 4.0
+      },
+      {
+        "hours": 1.0,
+        "dilation_cm": 5.0
+      },
+      {
+        "hours": 2.0,
+        "dilation_cm": 6.0
+      },
+      {
+        "hours": 3.0,
+        "dilation_cm": 7.0
+      },
+      {
+        "hours": 4.0,
+        "dilation_cm": 8.0
+      },
+      {
+        "hours": 5.0,
+        "dilation_cm": 9.0
+      },
+      {
+        "hours": 6.0,
+        "dilation_cm": 10.0
+      }
+    ],
+    "description": "4cm at 0h to 10cm at 6h \u2014 stays left of Alert line"
+  },
+  {
+    "file": "partoguard/data/synthetic/normal_progress_heavy_fullpage.png",
+    "scenario": "normal_progress",
+    "expected_zone": "normal",
+    "variant": "heavy_fullpage",
+    "synthetic": true,
+    "clinical_use": false,
+    "points": [
+      {
+        "hours": 0.0,
+        "dilation_cm": 4.0
+      },
+      {
+        "hours": 1.0,
+        "dilation_cm": 5.0
+      },
+      {
+        "hours": 2.0,
+        "dilation_cm": 6.0
+      },
+      {
+        "hours": 3.0,
+        "dilation_cm": 7.0
+      },
+      {
+        "hours": 4.0,
+        "dilation_cm": 8.0
+      },
+      {
+        "hours": 5.0,
+        "dilation_cm": 9.0
+      },
+      {
+        "hours": 6.0,
+        "dilation_cm": 10.0
+      }
+    ],
+    "description": "4cm at 0h to 10cm at 6h \u2014 stays left of Alert line"
+  },
+  {
+    "file": "partoguard/data/synthetic/alert_zone_clean_crop.png",
+    "scenario": "alert_zone",
+    "expected_zone": "alert_zone",
+    "variant": "clean_crop",
+    "synthetic": true,
+    "clinical_use": false,
+    "points": [
+      {
+        "hours": 0.0,
+        "dilation_cm": 4.0
+      },
+      {
+        "hours": 2.0,
+        "dilation_cm": 5.0
+      },
+      {
+        "hours": 4.0,
+        "dilation_cm": 6.0
+      }
+    ],
+    "description": "4cm at 0h, 6cm at 4h \u2014 crosses Alert line, stays left of Action"
+  },
+  {
+    "file": "partoguard/data/synthetic/alert_zone_moderate_crop.png",
+    "scenario": "alert_zone",
+    "expected_zone": "alert_zone",
+    "variant": "moderate_crop",
+    "synthetic": true,
+    "clinical_use": false,
+    "points": [
+      {
+        "hours": 0.0,
+        "dilation_cm": 4.0
+      },
+      {
+        "hours": 2.0,
+        "dilation_cm": 5.0
+      },
+      {
+        "hours": 4.0,
+        "dilation_cm": 6.0
+      }
+    ],
+    "description": "4cm at 0h, 6cm at 4h \u2014 crosses Alert line, stays left of Action"
+  },
+  {
+    "file": "partoguard/data/synthetic/alert_zone_heavy_crop.png",
+    "scenario": "alert_zone",
+    "expected_zone": "alert_zone",
+    "variant": "heavy_crop",
+    "synthetic": true,
+    "clinical_use": false,
+    "points": [
+      {
+        "hours": 0.0,
+        "dilation_cm": 4.0
+      },
+      {
+        "hours": 2.0,
+        "dilation_cm": 5.0
+      },
+      {
+        "hours": 4.0,
+        "dilation_cm": 6.0
+      }
+    ],
+    "description": "4cm at 0h, 6cm at 4h \u2014 crosses Alert line, stays left of Action"
+  },
+  {
+    "file": "partoguard/data/synthetic/alert_zone_clean_fullpage.png",
+    "scenario": "alert_zone",
+    "expected_zone": "alert_zone",
+    "variant": "clean_fullpage",
+    "synthetic": true,
+    "clinical_use": false,
+    "points": [
+      {
+        "hours": 0.0,
+        "dilation_cm": 4.0
+      },
+      {
+        "hours": 2.0,
+        "dilation_cm": 5.0
+      },
+      {
+        "hours": 4.0,
+        "dilation_cm": 6.0
+      }
+    ],
+    "description": "4cm at 0h, 6cm at 4h \u2014 crosses Alert line, stays left of Action"
+  },
+  {
+    "file": "partoguard/data/synthetic/alert_zone_moderate_fullpage.png",
+    "scenario": "alert_zone",
+    "expected_zone": "alert_zone",
+    "variant": "moderate_fullpage",
+    "synthetic": true,
+    "clinical_use": false,
+    "points": [
+      {
+        "hours": 0.0,
+        "dilation_cm": 4.0
+      },
+      {
+        "hours": 2.0,
+        "dilation_cm": 5.0
+      },
+      {
+        "hours": 4.0,
+        "dilation_cm": 6.0
+      }
+    ],
+    "description": "4cm at 0h, 6cm at 4h \u2014 crosses Alert line, stays left of Action"
+  },
+  {
+    "file": "partoguard/data/synthetic/alert_zone_heavy_fullpage.png",
+    "scenario": "alert_zone",
+    "expected_zone": "alert_zone",
+    "variant": "heavy_fullpage",
+    "synthetic": true,
+    "clinical_use": false,
+    "points": [
+      {
+        "hours": 0.0,
+        "dilation_cm": 4.0
+      },
+      {
+        "hours": 2.0,
+        "dilation_cm": 5.0
+      },
+      {
+        "hours": 4.0,
+        "dilation_cm": 6.0
+      }
+    ],
+    "description": "4cm at 0h, 6cm at 4h \u2014 crosses Alert line, stays left of Action"
+  },
+  {
+    "file": "partoguard/data/synthetic/action_zone_clean_crop.png",
+    "scenario": "action_zone",
+    "expected_zone": "action_zone",
+    "variant": "clean_crop",
+    "synthetic": true,
+    "clinical_use": false,
+    "points": [
+      {
+        "hours": 0.0,
+        "dilation_cm": 4.0
+      },
+      {
+        "hours": 4.0,
+        "dilation_cm": 6.0
+      },
+      {
+        "hours": 8.0,
+        "dilation_cm": 8.0
+      }
+    ],
+    "description": "4cm at 0h, 6cm at 4h, 8cm at 8h \u2014 reaches Action line"
+  },
+  {
+    "file": "partoguard/data/synthetic/action_zone_moderate_crop.png",
+    "scenario": "action_zone",
+    "expected_zone": "action_zone",
+    "variant": "moderate_crop",
+    "synthetic": true,
+    "clinical_use": false,
+    "points": [
+      {
+        "hours": 0.0,
+        "dilation_cm": 4.0
+      },
+      {
+        "hours": 4.0,
+        "dilation_cm": 6.0
+      },
+      {
+        "hours": 8.0,
+        "dilation_cm": 8.0
+      }
+    ],
+    "description": "4cm at 0h, 6cm at 4h, 8cm at 8h \u2014 reaches Action line"
+  },
+  {
+    "file": "partoguard/data/synthetic/action_zone_heavy_crop.png",
+    "scenario": "action_zone",
+    "expected_zone": "action_zone",
+    "variant": "heavy_crop",
+    "synthetic": true,
+    "clinical_use": false,
+    "points": [
+      {
+        "hours": 0.0,
+        "dilation_cm": 4.0
+      },
+      {
+        "hours": 4.0,
+        "dilation_cm": 6.0
+      },
+      {
+        "hours": 8.0,
+        "dilation_cm": 8.0
+      }
+    ],
+    "description": "4cm at 0h, 6cm at 4h, 8cm at 8h \u2014 reaches Action line"
+  },
+  {
+    "file": "partoguard/data/synthetic/action_zone_clean_fullpage.png",
+    "scenario": "action_zone",
+    "expected_zone": "action_zone",
+    "variant": "clean_fullpage",
+    "synthetic": true,
+    "clinical_use": false,
+    "points": [
+      {
+        "hours": 0.0,
+        "dilation_cm": 4.0
+      },
+      {
+        "hours": 4.0,
+        "dilation_cm": 6.0
+      },
+      {
+        "hours": 8.0,
+        "dilation_cm": 8.0
+      }
+    ],
+    "description": "4cm at 0h, 6cm at 4h, 8cm at 8h \u2014 reaches Action line"
+  },
+  {
+    "file": "partoguard/data/synthetic/action_zone_moderate_fullpage.png",
+    "scenario": "action_zone",
+    "expected_zone": "action_zone",
+    "variant": "moderate_fullpage",
+    "synthetic": true,
+    "clinical_use": false,
+    "points": [
+      {
+        "hours": 0.0,
+        "dilation_cm": 4.0
+      },
+      {
+        "hours": 4.0,
+        "dilation_cm": 6.0
+      },
+      {
+        "hours": 8.0,
+        "dilation_cm": 8.0
+      }
+    ],
+    "description": "4cm at 0h, 6cm at 4h, 8cm at 8h \u2014 reaches Action line"
+  },
+  {
+    "file": "partoguard/data/synthetic/action_zone_heavy_fullpage.png",
+    "scenario": "action_zone",
+    "expected_zone": "action_zone",
+    "variant": "heavy_fullpage",
+    "synthetic": true,
+    "clinical_use": false,
+    "points": [
+      {
+        "hours": 0.0,
+        "dilation_cm": 4.0
+      },
+      {
+        "hours": 4.0,
+        "dilation_cm": 6.0
+      },
+      {
+        "hours": 8.0,
+        "dilation_cm": 8.0
+      }
+    ],
+    "description": "4cm at 0h, 6cm at 4h, 8cm at 8h \u2014 reaches Action line"
+  }
+]

@@ -1,0 +1,1653 @@
+[
+  {
+    "path": "harvested/open_access_papers/BMC_partograph_completion_2013.pdf",
+    "source": "Yisma et al. 2013, Reproductive Health 10:23",
+    "license": "CC-BY-2.0",
+    "content": "Research paper on WHO partograph completion in Addis Ababa",
+    "phi_risk": 0,
+    "doi": "10.1186/1742-4755-10-23"
+  },
+  {
+    "path": "harvested/open_access_papers/BMC_partograph_bale_2015.pdf",
+    "source": "Markos & Bogale 2015, Reproductive Health 12:81",
+    "license": "CC-BY-4.0",
+    "content": "Partograph documentation status in Bale zone, Ethiopia",
+    "phi_risk": 0,
+    "doi": "10.1186/s12978-015-0074-z"
+  },
+  {
+    "path": "harvested/open_access_papers/BMC_partograph_malawi_2017.pdf",
+    "source": "Mandiwa & Zamawe 2017, Reproductive Health 14:162",
+    "license": "CC-BY-4.0",
+    "content": "Partograph documentation and associated factors in Malawi",
+    "phi_risk": 0,
+    "doi": "10.1186/s12978-017-0401-7"
+  },
+  {
+    "path": "harvested/open_access_papers/WHO_partograph_users_manual_1993.pdf",
+    "source": "WHO 1993, Preventing Prolonged Labour Part II (via Archive.org)",
+    "license": "WHO-freely-reproducible",
+    "content": "Canonical WHO partograph user's manual with filled examples and blank templates (scanned, 42 pages)",
+    "phi_risk": 0,
+    "doi": "WHO/FHE/MSM/93.9"
+  },
+  {
+    "path": "harvested/open_access_papers/WHO_partograph_multicentre_1994.pdf",
+    "source": "WHO 1994, Multicentre Study Report (via Archive.org)",
+    "license": "WHO-freely-reproducible",
+    "content": "WHO multicentre partograph study with plotted labour types and study forms (scanned, 26 pages)",
+    "phi_risk": 0,
+    "doi": "WHO/FHE/MSM/94.4"
+  },
+  {
+    "path": "harvested/open_access_papers/WHO_LCG_users_manual_2020.pdf",
+    "source": "WHO 2020, Labour Care Guide User's Manual",
+    "license": "CC-BY-NC-SA-3.0-IGO",
+    "content": "WHO Labour Care Guide manual with printable LCG form (replacement for modified partograph)",
+    "phi_risk": 0,
+    "doi": "ISBN 978-92-4-001756-6"
+  },
+  {
+    "path": "harvested/open_access_papers/extracted_figures/bmc2013_p3_fig1.jpeg",
+    "source": "Yisma et al. 2013, Figure 1",
+    "license": "CC-BY-2.0",
+    "content": "Blank WHO modified partograph template (real reference image)",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/open_access_papers/extracted_figures/who_lcg2020_p8_fig9.jpeg",
+    "source": "WHO LCG Manual 2020, page 8 figure",
+    "license": "CC-BY-NC-SA-3.0-IGO",
+    "content": "WHO Labour Care Guide blank form (1260x1792, first page)",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/open_access_papers/extracted_figures/who_lcg2020_p8_fig10.jpeg",
+    "source": "WHO LCG Manual 2020, page 8 figure",
+    "license": "CC-BY-NC-SA-3.0-IGO",
+    "content": "WHO Labour Care Guide blank form (2410x3428, full resolution)",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders/bale2015_page1.png",
+    "source": "Markos & Bogale 2015, bale2015_page1.png",
+    "license": "CC-BY-4.0",
+    "content": "Rendered page from partograph documentation study (Bale zone)",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders/bale2015_page2.png",
+    "source": "Markos & Bogale 2015, bale2015_page2.png",
+    "license": "CC-BY-4.0",
+    "content": "Rendered page from partograph documentation study (Bale zone)",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders/bale2015_page4.png",
+    "source": "Markos & Bogale 2015, bale2015_page4.png",
+    "license": "CC-BY-4.0",
+    "content": "Rendered page from partograph documentation study (Bale zone)",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders/bmc2013_page3.png",
+    "source": "Yisma et al. 2013, bmc2013_page3.png",
+    "license": "CC-BY-2.0",
+    "content": "Rendered page from partograph completion study (Addis Ababa)",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders/bmc2013_page4.png",
+    "source": "Yisma et al. 2013, bmc2013_page4.png",
+    "license": "CC-BY-2.0",
+    "content": "Rendered page from partograph completion study (Addis Ababa)",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders/bmc2013_page5.png",
+    "source": "Yisma et al. 2013, bmc2013_page5.png",
+    "license": "CC-BY-2.0",
+    "content": "Rendered page from partograph completion study (Addis Ababa)",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders/cureus2022_page1.png",
+    "source": "Cureus QI study 2022, cureus2022_page1.png",
+    "license": "CC-BY-4.0",
+    "content": "Rendered page from partograph quality improvement study (India)",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders/cureus2022_page2.png",
+    "source": "Cureus QI study 2022, cureus2022_page2.png",
+    "license": "CC-BY-4.0",
+    "content": "Rendered page from partograph quality improvement study (India)",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders/cureus2022_page3.png",
+    "source": "Cureus QI study 2022, cureus2022_page3.png",
+    "license": "CC-BY-4.0",
+    "content": "Rendered page from partograph quality improvement study (India)",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders/cureus2022_page4.png",
+    "source": "Cureus QI study 2022, cureus2022_page4.png",
+    "license": "CC-BY-4.0",
+    "content": "Rendered page from partograph quality improvement study (India)",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders/malawi2017_page1.png",
+    "source": "Mandiwa & Zamawe 2017, malawi2017_page1.png",
+    "license": "CC-BY-4.0",
+    "content": "Rendered page from partograph documentation study (Malawi)",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders/malawi2017_page3.png",
+    "source": "Mandiwa & Zamawe 2017, malawi2017_page3.png",
+    "license": "CC-BY-4.0",
+    "content": "Rendered page from partograph documentation study (Malawi)",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders/malawi2017_page4.png",
+    "source": "Mandiwa & Zamawe 2017, malawi2017_page4.png",
+    "license": "CC-BY-4.0",
+    "content": "Rendered page from partograph documentation study (Malawi)",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders/malawi2017_page5.png",
+    "source": "Mandiwa & Zamawe 2017, malawi2017_page5.png",
+    "license": "CC-BY-4.0",
+    "content": "Rendered page from partograph documentation study (Malawi)",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders/malawi2017_page6.png",
+    "source": "Mandiwa & Zamawe 2017, malawi2017_page6.png",
+    "license": "CC-BY-4.0",
+    "content": "Rendered page from partograph documentation study (Malawi)",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders/malawi2017_page7.png",
+    "source": "Mandiwa & Zamawe 2017, malawi2017_page7.png",
+    "license": "CC-BY-4.0",
+    "content": "Rendered page from partograph documentation study (Malawi)",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders/who_lcg2020_page1.png",
+    "source": "WHO LCG Manual 2020, who_lcg2020_page1.png",
+    "license": "CC-BY-NC-SA-3.0-IGO",
+    "content": "Rendered page from WHO Labour Care Guide manual",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders/who_lcg2020_page10.png",
+    "source": "WHO LCG Manual 2020, who_lcg2020_page10.png",
+    "license": "CC-BY-NC-SA-3.0-IGO",
+    "content": "Rendered page from WHO Labour Care Guide manual",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders/who_lcg2020_page12.png",
+    "source": "WHO LCG Manual 2020, who_lcg2020_page12.png",
+    "license": "CC-BY-NC-SA-3.0-IGO",
+    "content": "Rendered page from WHO Labour Care Guide manual",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders/who_lcg2020_page7.png",
+    "source": "WHO LCG Manual 2020, who_lcg2020_page7.png",
+    "license": "CC-BY-NC-SA-3.0-IGO",
+    "content": "Rendered page from WHO Labour Care Guide manual",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders/who_lcg2020_page8.png",
+    "source": "WHO LCG Manual 2020, who_lcg2020_page8.png",
+    "license": "CC-BY-NC-SA-3.0-IGO",
+    "content": "Rendered page from WHO Labour Care Guide manual",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders/who_lcg2020_page9.png",
+    "source": "WHO LCG Manual 2020, who_lcg2020_page9.png",
+    "license": "CC-BY-NC-SA-3.0-IGO",
+    "content": "Rendered page from WHO Labour Care Guide manual",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_manual_1993_pages/who1993_p10_fig10.png",
+    "source": "WHO 1993, who1993_p10_fig10.png",
+    "license": "WHO-freely-reproducible",
+    "content": "Scanned page from canonical WHO partograph user's manual",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_manual_1993_pages/who1993_p11_fig11.png",
+    "source": "WHO 1993, who1993_p11_fig11.png",
+    "license": "WHO-freely-reproducible",
+    "content": "Scanned page from canonical WHO partograph user's manual",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_manual_1993_pages/who1993_p12_fig12.png",
+    "source": "WHO 1993, who1993_p12_fig12.png",
+    "license": "WHO-freely-reproducible",
+    "content": "Scanned page from canonical WHO partograph user's manual",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_manual_1993_pages/who1993_p13_fig13.png",
+    "source": "WHO 1993, who1993_p13_fig13.png",
+    "license": "WHO-freely-reproducible",
+    "content": "Scanned page from canonical WHO partograph user's manual",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_manual_1993_pages/who1993_p14_fig14.png",
+    "source": "WHO 1993, who1993_p14_fig14.png",
+    "license": "WHO-freely-reproducible",
+    "content": "Scanned page from canonical WHO partograph user's manual",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_manual_1993_pages/who1993_p15_fig15.png",
+    "source": "WHO 1993, who1993_p15_fig15.png",
+    "license": "WHO-freely-reproducible",
+    "content": "Scanned page from canonical WHO partograph user's manual",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_manual_1993_pages/who1993_p16_fig16.png",
+    "source": "WHO 1993, who1993_p16_fig16.png",
+    "license": "WHO-freely-reproducible",
+    "content": "Scanned page from canonical WHO partograph user's manual",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_manual_1993_pages/who1993_p17_fig17.png",
+    "source": "WHO 1993, who1993_p17_fig17.png",
+    "license": "WHO-freely-reproducible",
+    "content": "Scanned page from canonical WHO partograph user's manual",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_manual_1993_pages/who1993_p18_fig18.png",
+    "source": "WHO 1993, who1993_p18_fig18.png",
+    "license": "WHO-freely-reproducible",
+    "content": "Scanned page from canonical WHO partograph user's manual",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_manual_1993_pages/who1993_p19_fig19.png",
+    "source": "WHO 1993, who1993_p19_fig19.png",
+    "license": "WHO-freely-reproducible",
+    "content": "Scanned page from canonical WHO partograph user's manual",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_manual_1993_pages/who1993_p1_fig1.png",
+    "source": "WHO 1993, who1993_p1_fig1.png",
+    "license": "WHO-freely-reproducible",
+    "content": "Scanned page from canonical WHO partograph user's manual",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_manual_1993_pages/who1993_p20_fig20.png",
+    "source": "WHO 1993, who1993_p20_fig20.png",
+    "license": "WHO-freely-reproducible",
+    "content": "Scanned page from canonical WHO partograph user's manual",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_manual_1993_pages/who1993_p21_fig21.png",
+    "source": "WHO 1993, who1993_p21_fig21.png",
+    "license": "WHO-freely-reproducible",
+    "content": "Scanned page from canonical WHO partograph user's manual",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_manual_1993_pages/who1993_p22_fig22.png",
+    "source": "WHO 1993, who1993_p22_fig22.png",
+    "license": "WHO-freely-reproducible",
+    "content": "Scanned page from canonical WHO partograph user's manual",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_manual_1993_pages/who1993_p23_fig23.png",
+    "source": "WHO 1993, who1993_p23_fig23.png",
+    "license": "WHO-freely-reproducible",
+    "content": "Scanned page from canonical WHO partograph user's manual",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_manual_1993_pages/who1993_p24_fig24.png",
+    "source": "WHO 1993, who1993_p24_fig24.png",
+    "license": "WHO-freely-reproducible",
+    "content": "Scanned page from canonical WHO partograph user's manual",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_manual_1993_pages/who1993_p25_fig25.png",
+    "source": "WHO 1993, who1993_p25_fig25.png",
+    "license": "WHO-freely-reproducible",
+    "content": "Scanned page from canonical WHO partograph user's manual",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_manual_1993_pages/who1993_p26_fig26.png",
+    "source": "WHO 1993, who1993_p26_fig26.png",
+    "license": "WHO-freely-reproducible",
+    "content": "Scanned page from canonical WHO partograph user's manual",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_manual_1993_pages/who1993_p27_fig27.png",
+    "source": "WHO 1993, who1993_p27_fig27.png",
+    "license": "WHO-freely-reproducible",
+    "content": "Scanned page from canonical WHO partograph user's manual",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_manual_1993_pages/who1993_p28_fig28.png",
+    "source": "WHO 1993, who1993_p28_fig28.png",
+    "license": "WHO-freely-reproducible",
+    "content": "Scanned page from canonical WHO partograph user's manual",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_manual_1993_pages/who1993_p29_fig29.png",
+    "source": "WHO 1993, who1993_p29_fig29.png",
+    "license": "WHO-freely-reproducible",
+    "content": "Scanned page from canonical WHO partograph user's manual",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_manual_1993_pages/who1993_p2_fig2.png",
+    "source": "WHO 1993, who1993_p2_fig2.png",
+    "license": "WHO-freely-reproducible",
+    "content": "Scanned page from canonical WHO partograph user's manual",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_manual_1993_pages/who1993_p30_fig30.png",
+    "source": "WHO 1993, who1993_p30_fig30.png",
+    "license": "WHO-freely-reproducible",
+    "content": "Scanned page from canonical WHO partograph user's manual",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_manual_1993_pages/who1993_p31_fig31.png",
+    "source": "WHO 1993, who1993_p31_fig31.png",
+    "license": "WHO-freely-reproducible",
+    "content": "Scanned page from canonical WHO partograph user's manual",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_manual_1993_pages/who1993_p32_fig32.png",
+    "source": "WHO 1993, who1993_p32_fig32.png",
+    "license": "WHO-freely-reproducible",
+    "content": "Scanned page from canonical WHO partograph user's manual",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_manual_1993_pages/who1993_p33_fig33.png",
+    "source": "WHO 1993, who1993_p33_fig33.png",
+    "license": "WHO-freely-reproducible",
+    "content": "Scanned page from canonical WHO partograph user's manual",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_manual_1993_pages/who1993_p34_fig34.png",
+    "source": "WHO 1993, who1993_p34_fig34.png",
+    "license": "WHO-freely-reproducible",
+    "content": "Scanned page from canonical WHO partograph user's manual",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_manual_1993_pages/who1993_p35_fig35.png",
+    "source": "WHO 1993, who1993_p35_fig35.png",
+    "license": "WHO-freely-reproducible",
+    "content": "Scanned page from canonical WHO partograph user's manual",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_manual_1993_pages/who1993_p36_fig36.png",
+    "source": "WHO 1993, who1993_p36_fig36.png",
+    "license": "WHO-freely-reproducible",
+    "content": "Scanned page from canonical WHO partograph user's manual",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_manual_1993_pages/who1993_p37_fig37.png",
+    "source": "WHO 1993, who1993_p37_fig37.png",
+    "license": "WHO-freely-reproducible",
+    "content": "Scanned page from canonical WHO partograph user's manual",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_manual_1993_pages/who1993_p38_fig38.png",
+    "source": "WHO 1993, who1993_p38_fig38.png",
+    "license": "WHO-freely-reproducible",
+    "content": "Scanned page from canonical WHO partograph user's manual",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_manual_1993_pages/who1993_p39_fig39.png",
+    "source": "WHO 1993, who1993_p39_fig39.png",
+    "license": "WHO-freely-reproducible",
+    "content": "Scanned page from canonical WHO partograph user's manual",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_manual_1993_pages/who1993_p3_fig3.png",
+    "source": "WHO 1993, who1993_p3_fig3.png",
+    "license": "WHO-freely-reproducible",
+    "content": "Scanned page from canonical WHO partograph user's manual",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_manual_1993_pages/who1993_p40_fig40.png",
+    "source": "WHO 1993, who1993_p40_fig40.png",
+    "license": "WHO-freely-reproducible",
+    "content": "Scanned page from canonical WHO partograph user's manual",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_manual_1993_pages/who1993_p41_fig41.png",
+    "source": "WHO 1993, who1993_p41_fig41.png",
+    "license": "WHO-freely-reproducible",
+    "content": "Scanned page from canonical WHO partograph user's manual",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_manual_1993_pages/who1993_p42_fig42.png",
+    "source": "WHO 1993, who1993_p42_fig42.png",
+    "license": "WHO-freely-reproducible",
+    "content": "Scanned page from canonical WHO partograph user's manual",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_manual_1993_pages/who1993_p4_fig4.png",
+    "source": "WHO 1993, who1993_p4_fig4.png",
+    "license": "WHO-freely-reproducible",
+    "content": "Scanned page from canonical WHO partograph user's manual",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_manual_1993_pages/who1993_p5_fig5.png",
+    "source": "WHO 1993, who1993_p5_fig5.png",
+    "license": "WHO-freely-reproducible",
+    "content": "Scanned page from canonical WHO partograph user's manual",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_manual_1993_pages/who1993_p6_fig6.png",
+    "source": "WHO 1993, who1993_p6_fig6.png",
+    "license": "WHO-freely-reproducible",
+    "content": "Scanned page from canonical WHO partograph user's manual",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_manual_1993_pages/who1993_p7_fig7.png",
+    "source": "WHO 1993, who1993_p7_fig7.png",
+    "license": "WHO-freely-reproducible",
+    "content": "Scanned page from canonical WHO partograph user's manual",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_manual_1993_pages/who1993_p8_fig8.png",
+    "source": "WHO 1993, who1993_p8_fig8.png",
+    "license": "WHO-freely-reproducible",
+    "content": "Scanned page from canonical WHO partograph user's manual",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_manual_1993_pages/who1993_p9_fig9.png",
+    "source": "WHO 1993, who1993_p9_fig9.png",
+    "license": "WHO-freely-reproducible",
+    "content": "Scanned page from canonical WHO partograph user's manual",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_multicentre_1994_pages/who1994_p10_fig10.png",
+    "source": "WHO 1994, who1994_p10_fig10.png",
+    "license": "WHO-freely-reproducible",
+    "content": "Scanned page from WHO multicentre partograph study",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_multicentre_1994_pages/who1994_p11_fig11.png",
+    "source": "WHO 1994, who1994_p11_fig11.png",
+    "license": "WHO-freely-reproducible",
+    "content": "Scanned page from WHO multicentre partograph study",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_multicentre_1994_pages/who1994_p12_fig12.png",
+    "source": "WHO 1994, who1994_p12_fig12.png",
+    "license": "WHO-freely-reproducible",
+    "content": "Scanned page from WHO multicentre partograph study",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_multicentre_1994_pages/who1994_p13_fig13.png",
+    "source": "WHO 1994, who1994_p13_fig13.png",
+    "license": "WHO-freely-reproducible",
+    "content": "Scanned page from WHO multicentre partograph study",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_multicentre_1994_pages/who1994_p14_fig14.png",
+    "source": "WHO 1994, who1994_p14_fig14.png",
+    "license": "WHO-freely-reproducible",
+    "content": "Scanned page from WHO multicentre partograph study",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_multicentre_1994_pages/who1994_p15_fig15.png",
+    "source": "WHO 1994, who1994_p15_fig15.png",
+    "license": "WHO-freely-reproducible",
+    "content": "Scanned page from WHO multicentre partograph study",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_multicentre_1994_pages/who1994_p16_fig16.png",
+    "source": "WHO 1994, who1994_p16_fig16.png",
+    "license": "WHO-freely-reproducible",
+    "content": "Scanned page from WHO multicentre partograph study",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_multicentre_1994_pages/who1994_p17_fig17.png",
+    "source": "WHO 1994, who1994_p17_fig17.png",
+    "license": "WHO-freely-reproducible",
+    "content": "Scanned page from WHO multicentre partograph study",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_multicentre_1994_pages/who1994_p18_fig18.png",
+    "source": "WHO 1994, who1994_p18_fig18.png",
+    "license": "WHO-freely-reproducible",
+    "content": "Scanned page from WHO multicentre partograph study",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_multicentre_1994_pages/who1994_p19_fig19.png",
+    "source": "WHO 1994, who1994_p19_fig19.png",
+    "license": "WHO-freely-reproducible",
+    "content": "Scanned page from WHO multicentre partograph study",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_multicentre_1994_pages/who1994_p1_fig1.png",
+    "source": "WHO 1994, who1994_p1_fig1.png",
+    "license": "WHO-freely-reproducible",
+    "content": "Scanned page from WHO multicentre partograph study",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_multicentre_1994_pages/who1994_p20_fig20.png",
+    "source": "WHO 1994, who1994_p20_fig20.png",
+    "license": "WHO-freely-reproducible",
+    "content": "Scanned page from WHO multicentre partograph study",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_multicentre_1994_pages/who1994_p21_fig21.png",
+    "source": "WHO 1994, who1994_p21_fig21.png",
+    "license": "WHO-freely-reproducible",
+    "content": "Scanned page from WHO multicentre partograph study",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_multicentre_1994_pages/who1994_p22_fig22.png",
+    "source": "WHO 1994, who1994_p22_fig22.png",
+    "license": "WHO-freely-reproducible",
+    "content": "Scanned page from WHO multicentre partograph study",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_multicentre_1994_pages/who1994_p23_fig23.png",
+    "source": "WHO 1994, who1994_p23_fig23.png",
+    "license": "WHO-freely-reproducible",
+    "content": "Scanned page from WHO multicentre partograph study",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_multicentre_1994_pages/who1994_p24_fig24.png",
+    "source": "WHO 1994, who1994_p24_fig24.png",
+    "license": "WHO-freely-reproducible",
+    "content": "Scanned page from WHO multicentre partograph study",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_multicentre_1994_pages/who1994_p25_fig25.png",
+    "source": "WHO 1994, who1994_p25_fig25.png",
+    "license": "WHO-freely-reproducible",
+    "content": "Scanned page from WHO multicentre partograph study",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_multicentre_1994_pages/who1994_p26_fig26.png",
+    "source": "WHO 1994, who1994_p26_fig26.png",
+    "license": "WHO-freely-reproducible",
+    "content": "Scanned page from WHO multicentre partograph study",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_multicentre_1994_pages/who1994_p2_fig2.png",
+    "source": "WHO 1994, who1994_p2_fig2.png",
+    "license": "WHO-freely-reproducible",
+    "content": "Scanned page from WHO multicentre partograph study",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_multicentre_1994_pages/who1994_p3_fig3.png",
+    "source": "WHO 1994, who1994_p3_fig3.png",
+    "license": "WHO-freely-reproducible",
+    "content": "Scanned page from WHO multicentre partograph study",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_multicentre_1994_pages/who1994_p4_fig4.png",
+    "source": "WHO 1994, who1994_p4_fig4.png",
+    "license": "WHO-freely-reproducible",
+    "content": "Scanned page from WHO multicentre partograph study",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_multicentre_1994_pages/who1994_p5_fig5.png",
+    "source": "WHO 1994, who1994_p5_fig5.png",
+    "license": "WHO-freely-reproducible",
+    "content": "Scanned page from WHO multicentre partograph study",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_multicentre_1994_pages/who1994_p6_fig6.png",
+    "source": "WHO 1994, who1994_p6_fig6.png",
+    "license": "WHO-freely-reproducible",
+    "content": "Scanned page from WHO multicentre partograph study",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_multicentre_1994_pages/who1994_p7_fig7.png",
+    "source": "WHO 1994, who1994_p7_fig7.png",
+    "license": "WHO-freely-reproducible",
+    "content": "Scanned page from WHO multicentre partograph study",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_multicentre_1994_pages/who1994_p8_fig8.png",
+    "source": "WHO 1994, who1994_p8_fig8.png",
+    "license": "WHO-freely-reproducible",
+    "content": "Scanned page from WHO multicentre partograph study",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_multicentre_1994_pages/who1994_p9_fig9.png",
+    "source": "WHO 1994, who1994_p9_fig9.png",
+    "license": "WHO-freely-reproducible",
+    "content": "Scanned page from WHO multicentre partograph study",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/open_access_papers_new/bedwell_realist_review_2017.pdf",
+    "source": "Bedwell et al. 2017, BMC Pregnancy Childbirth 17:31",
+    "license": "CC-BY-4.0",
+    "content": "Realist review of partograph use; contains blank WHO 1994 and 2000 partograph forms (Fig 1a, 1b)",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/open_access_papers_new/demissie_innovations_2025.pdf",
+    "source": "Demissie et al. 2025, Front Glob Womens Health",
+    "license": "CC-BY-4.0",
+    "content": "Scoping review mapping innovations in partograph technologies 2000-2025",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/open_access_papers_new/ehealth_adhere_partograph_2026.pdf",
+    "source": "Nigatu et al. 2026, Reproductive Health",
+    "license": "CC-BY-4.0",
+    "content": "eHealth intervention (ADHERE) on adherence to partograph use in Ethiopia",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/open_access_papers_new/matsui_cambodia_2021.pdf",
+    "source": "Matsui et al. 2021, Reproductive Health 18:111",
+    "license": "CC-BY-4.0",
+    "content": "Knowledge on intrapartum care practices among skilled birth attendants in Cambodia",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/open_access_papers_new/rahman_epartograph_2019.pdf",
+    "source": "Rahman et al. 2019, PLOS ONE",
+    "license": "CC-BY-4.0",
+    "content": "Feasibility and effectiveness of electronic vs paper partograph on birth outcomes",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/open_access_papers_new/sama_cameroon_2017.pdf",
+    "source": "Sama et al. 2017, PLOS ONE",
+    "license": "CC-BY-4.0",
+    "content": "Knowledge and utilization of the partograph among obstetric care providers in Cameroon",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/open_access_papers_new/usmanova_digital_cds_2021.pdf",
+    "source": "Usmanova et al. 2021, BMC Pregnancy Childbirth 21:236",
+    "license": "CC-BY-4.0",
+    "content": "Digital clinical decision support tool for improving intrapartum care in India",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/open_access_papers_new/zhang_vs_who_partograph_2025.pdf",
+    "source": "Sun et al. 2025, BMC Pregnancy Childbirth",
+    "license": "CC-BY-4.0",
+    "content": "Zhang's guideline vs 1994 WHO partograph for hypertensive disorder of pregnancy",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/open_access_papers_new/who_safe_motherhood_partograph.pdf",
+    "source": "WHO 1994, Partograph in Management of Labour (FHE/MSM/94.4, via Archive.org)",
+    "license": "WHO-freely-reproducible",
+    "content": "WHO multicentre study report on partograph application in labour management 1990-1991",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/extracted_figures_new/bedwell2017_fig1a_1944x1518.png",
+    "source": "Bedwell et al. 2017, Figure 1a+1b",
+    "license": "CC-BY-4.0",
+    "content": "Blank WHO composite (1994) and modified (2000) partograph templates side by side",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/bedwell_realist_review_2017_page1.png",
+    "source": "Bedwell et al. 2017",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Bedwell et al. 2017",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/bedwell_realist_review_2017_page10.png",
+    "source": "Bedwell et al. 2017",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Bedwell et al. 2017",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/bedwell_realist_review_2017_page11.png",
+    "source": "Bedwell et al. 2017",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Bedwell et al. 2017",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/bedwell_realist_review_2017_page2.png",
+    "source": "Bedwell et al. 2017",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Bedwell et al. 2017",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/bedwell_realist_review_2017_page3.png",
+    "source": "Bedwell et al. 2017",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Bedwell et al. 2017",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/bedwell_realist_review_2017_page4.png",
+    "source": "Bedwell et al. 2017",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Bedwell et al. 2017",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/bedwell_realist_review_2017_page5.png",
+    "source": "Bedwell et al. 2017",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Bedwell et al. 2017",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/bedwell_realist_review_2017_page6.png",
+    "source": "Bedwell et al. 2017",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Bedwell et al. 2017",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/bedwell_realist_review_2017_page7.png",
+    "source": "Bedwell et al. 2017",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Bedwell et al. 2017",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/bedwell_realist_review_2017_page8.png",
+    "source": "Bedwell et al. 2017",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Bedwell et al. 2017",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/bedwell_realist_review_2017_page9.png",
+    "source": "Bedwell et al. 2017",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Bedwell et al. 2017",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/demissie_innovations_2025_page1.png",
+    "source": "Demissie et al. 2025",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Demissie et al. 2025",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/demissie_innovations_2025_page10.png",
+    "source": "Demissie et al. 2025",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Demissie et al. 2025",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/demissie_innovations_2025_page2.png",
+    "source": "Demissie et al. 2025",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Demissie et al. 2025",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/demissie_innovations_2025_page3.png",
+    "source": "Demissie et al. 2025",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Demissie et al. 2025",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/demissie_innovations_2025_page4.png",
+    "source": "Demissie et al. 2025",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Demissie et al. 2025",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/demissie_innovations_2025_page5.png",
+    "source": "Demissie et al. 2025",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Demissie et al. 2025",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/demissie_innovations_2025_page6.png",
+    "source": "Demissie et al. 2025",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Demissie et al. 2025",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/demissie_innovations_2025_page7.png",
+    "source": "Demissie et al. 2025",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Demissie et al. 2025",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/demissie_innovations_2025_page8.png",
+    "source": "Demissie et al. 2025",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Demissie et al. 2025",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/demissie_innovations_2025_page9.png",
+    "source": "Demissie et al. 2025",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Demissie et al. 2025",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/ehealth_adhere_partograph_2026_page1.png",
+    "source": "Nigatu et al. 2026",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Nigatu et al. 2026",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/ehealth_adhere_partograph_2026_page10.png",
+    "source": "Nigatu et al. 2026",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Nigatu et al. 2026",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/ehealth_adhere_partograph_2026_page11.png",
+    "source": "Nigatu et al. 2026",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Nigatu et al. 2026",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/ehealth_adhere_partograph_2026_page12.png",
+    "source": "Nigatu et al. 2026",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Nigatu et al. 2026",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/ehealth_adhere_partograph_2026_page13.png",
+    "source": "Nigatu et al. 2026",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Nigatu et al. 2026",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/ehealth_adhere_partograph_2026_page14.png",
+    "source": "Nigatu et al. 2026",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Nigatu et al. 2026",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/ehealth_adhere_partograph_2026_page2.png",
+    "source": "Nigatu et al. 2026",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Nigatu et al. 2026",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/ehealth_adhere_partograph_2026_page3.png",
+    "source": "Nigatu et al. 2026",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Nigatu et al. 2026",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/ehealth_adhere_partograph_2026_page4.png",
+    "source": "Nigatu et al. 2026",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Nigatu et al. 2026",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/ehealth_adhere_partograph_2026_page5.png",
+    "source": "Nigatu et al. 2026",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Nigatu et al. 2026",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/ehealth_adhere_partograph_2026_page6.png",
+    "source": "Nigatu et al. 2026",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Nigatu et al. 2026",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/ehealth_adhere_partograph_2026_page7.png",
+    "source": "Nigatu et al. 2026",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Nigatu et al. 2026",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/ehealth_adhere_partograph_2026_page8.png",
+    "source": "Nigatu et al. 2026",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Nigatu et al. 2026",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/ehealth_adhere_partograph_2026_page9.png",
+    "source": "Nigatu et al. 2026",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Nigatu et al. 2026",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/matsui_cambodia_2021_page1.png",
+    "source": "Matsui et al. 2021",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Matsui et al. 2021",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/matsui_cambodia_2021_page10.png",
+    "source": "Matsui et al. 2021",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Matsui et al. 2021",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/matsui_cambodia_2021_page11.png",
+    "source": "Matsui et al. 2021",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Matsui et al. 2021",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/matsui_cambodia_2021_page2.png",
+    "source": "Matsui et al. 2021",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Matsui et al. 2021",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/matsui_cambodia_2021_page3.png",
+    "source": "Matsui et al. 2021",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Matsui et al. 2021",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/matsui_cambodia_2021_page4.png",
+    "source": "Matsui et al. 2021",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Matsui et al. 2021",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/matsui_cambodia_2021_page5.png",
+    "source": "Matsui et al. 2021",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Matsui et al. 2021",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/matsui_cambodia_2021_page6.png",
+    "source": "Matsui et al. 2021",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Matsui et al. 2021",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/matsui_cambodia_2021_page7.png",
+    "source": "Matsui et al. 2021",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Matsui et al. 2021",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/matsui_cambodia_2021_page8.png",
+    "source": "Matsui et al. 2021",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Matsui et al. 2021",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/matsui_cambodia_2021_page9.png",
+    "source": "Matsui et al. 2021",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Matsui et al. 2021",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/rahman_epartograph_2019_page1.png",
+    "source": "Rahman et al. 2019",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Rahman et al. 2019",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/rahman_epartograph_2019_page10.png",
+    "source": "Rahman et al. 2019",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Rahman et al. 2019",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/rahman_epartograph_2019_page11.png",
+    "source": "Rahman et al. 2019",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Rahman et al. 2019",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/rahman_epartograph_2019_page12.png",
+    "source": "Rahman et al. 2019",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Rahman et al. 2019",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/rahman_epartograph_2019_page13.png",
+    "source": "Rahman et al. 2019",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Rahman et al. 2019",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/rahman_epartograph_2019_page14.png",
+    "source": "Rahman et al. 2019",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Rahman et al. 2019",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/rahman_epartograph_2019_page15.png",
+    "source": "Rahman et al. 2019",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Rahman et al. 2019",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/rahman_epartograph_2019_page2.png",
+    "source": "Rahman et al. 2019",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Rahman et al. 2019",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/rahman_epartograph_2019_page3.png",
+    "source": "Rahman et al. 2019",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Rahman et al. 2019",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/rahman_epartograph_2019_page4.png",
+    "source": "Rahman et al. 2019",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Rahman et al. 2019",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/rahman_epartograph_2019_page5.png",
+    "source": "Rahman et al. 2019",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Rahman et al. 2019",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/rahman_epartograph_2019_page6.png",
+    "source": "Rahman et al. 2019",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Rahman et al. 2019",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/rahman_epartograph_2019_page7.png",
+    "source": "Rahman et al. 2019",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Rahman et al. 2019",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/rahman_epartograph_2019_page8.png",
+    "source": "Rahman et al. 2019",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Rahman et al. 2019",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/rahman_epartograph_2019_page9.png",
+    "source": "Rahman et al. 2019",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Rahman et al. 2019",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/sama_cameroon_2017_page1.png",
+    "source": "Sama et al. 2017",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Sama et al. 2017",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/sama_cameroon_2017_page10.png",
+    "source": "Sama et al. 2017",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Sama et al. 2017",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/sama_cameroon_2017_page11.png",
+    "source": "Sama et al. 2017",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Sama et al. 2017",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/sama_cameroon_2017_page12.png",
+    "source": "Sama et al. 2017",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Sama et al. 2017",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/sama_cameroon_2017_page13.png",
+    "source": "Sama et al. 2017",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Sama et al. 2017",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/sama_cameroon_2017_page14.png",
+    "source": "Sama et al. 2017",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Sama et al. 2017",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/sama_cameroon_2017_page2.png",
+    "source": "Sama et al. 2017",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Sama et al. 2017",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/sama_cameroon_2017_page3.png",
+    "source": "Sama et al. 2017",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Sama et al. 2017",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/sama_cameroon_2017_page4.png",
+    "source": "Sama et al. 2017",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Sama et al. 2017",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/sama_cameroon_2017_page5.png",
+    "source": "Sama et al. 2017",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Sama et al. 2017",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/sama_cameroon_2017_page6.png",
+    "source": "Sama et al. 2017",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Sama et al. 2017",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/sama_cameroon_2017_page7.png",
+    "source": "Sama et al. 2017",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Sama et al. 2017",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/sama_cameroon_2017_page8.png",
+    "source": "Sama et al. 2017",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Sama et al. 2017",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/sama_cameroon_2017_page9.png",
+    "source": "Sama et al. 2017",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Sama et al. 2017",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/usmanova_digital_cds_2021_page1.png",
+    "source": "Usmanova et al. 2021",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Usmanova et al. 2021",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/usmanova_digital_cds_2021_page10.png",
+    "source": "Usmanova et al. 2021",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Usmanova et al. 2021",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/usmanova_digital_cds_2021_page11.png",
+    "source": "Usmanova et al. 2021",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Usmanova et al. 2021",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/usmanova_digital_cds_2021_page12.png",
+    "source": "Usmanova et al. 2021",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Usmanova et al. 2021",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/usmanova_digital_cds_2021_page2.png",
+    "source": "Usmanova et al. 2021",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Usmanova et al. 2021",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/usmanova_digital_cds_2021_page3.png",
+    "source": "Usmanova et al. 2021",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Usmanova et al. 2021",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/usmanova_digital_cds_2021_page4.png",
+    "source": "Usmanova et al. 2021",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Usmanova et al. 2021",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/usmanova_digital_cds_2021_page5.png",
+    "source": "Usmanova et al. 2021",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Usmanova et al. 2021",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/usmanova_digital_cds_2021_page6.png",
+    "source": "Usmanova et al. 2021",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Usmanova et al. 2021",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/usmanova_digital_cds_2021_page7.png",
+    "source": "Usmanova et al. 2021",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Usmanova et al. 2021",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/usmanova_digital_cds_2021_page8.png",
+    "source": "Usmanova et al. 2021",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Usmanova et al. 2021",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/usmanova_digital_cds_2021_page9.png",
+    "source": "Usmanova et al. 2021",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Usmanova et al. 2021",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/zhang_vs_who_partograph_2025_page1.png",
+    "source": "Sun et al. 2025",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Sun et al. 2025",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/zhang_vs_who_partograph_2025_page10.png",
+    "source": "Sun et al. 2025",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Sun et al. 2025",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/zhang_vs_who_partograph_2025_page11.png",
+    "source": "Sun et al. 2025",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Sun et al. 2025",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/zhang_vs_who_partograph_2025_page12.png",
+    "source": "Sun et al. 2025",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Sun et al. 2025",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/zhang_vs_who_partograph_2025_page2.png",
+    "source": "Sun et al. 2025",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Sun et al. 2025",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/zhang_vs_who_partograph_2025_page3.png",
+    "source": "Sun et al. 2025",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Sun et al. 2025",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/zhang_vs_who_partograph_2025_page4.png",
+    "source": "Sun et al. 2025",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Sun et al. 2025",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/zhang_vs_who_partograph_2025_page5.png",
+    "source": "Sun et al. 2025",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Sun et al. 2025",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/zhang_vs_who_partograph_2025_page6.png",
+    "source": "Sun et al. 2025",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Sun et al. 2025",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/zhang_vs_who_partograph_2025_page7.png",
+    "source": "Sun et al. 2025",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Sun et al. 2025",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/zhang_vs_who_partograph_2025_page8.png",
+    "source": "Sun et al. 2025",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Sun et al. 2025",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/pdf_page_renders_new/zhang_vs_who_partograph_2025_page9.png",
+    "source": "Sun et al. 2025",
+    "license": "CC-BY-4.0",
+    "content": "Page render from Sun et al. 2025",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_safe_motherhood_pages/who_safe_motherhood_p1.png",
+    "source": "WHO 1994 Multicentre Study Report (FHE/MSM/94.4)",
+    "license": "WHO-freely-reproducible",
+    "content": "Page render from WHO partograph multicentre study report",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_safe_motherhood_pages/who_safe_motherhood_p10.png",
+    "source": "WHO 1994 Multicentre Study Report (FHE/MSM/94.4)",
+    "license": "WHO-freely-reproducible",
+    "content": "Page render from WHO partograph multicentre study report",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_safe_motherhood_pages/who_safe_motherhood_p11.png",
+    "source": "WHO 1994 Multicentre Study Report (FHE/MSM/94.4)",
+    "license": "WHO-freely-reproducible",
+    "content": "Page render from WHO partograph multicentre study report",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_safe_motherhood_pages/who_safe_motherhood_p12.png",
+    "source": "WHO 1994 Multicentre Study Report (FHE/MSM/94.4)",
+    "license": "WHO-freely-reproducible",
+    "content": "Page render from WHO partograph multicentre study report",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_safe_motherhood_pages/who_safe_motherhood_p13.png",
+    "source": "WHO 1994 Multicentre Study Report (FHE/MSM/94.4)",
+    "license": "WHO-freely-reproducible",
+    "content": "Page render from WHO partograph multicentre study report",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_safe_motherhood_pages/who_safe_motherhood_p14.png",
+    "source": "WHO 1994 Multicentre Study Report (FHE/MSM/94.4)",
+    "license": "WHO-freely-reproducible",
+    "content": "Page render from WHO partograph multicentre study report",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_safe_motherhood_pages/who_safe_motherhood_p15.png",
+    "source": "WHO 1994 Multicentre Study Report (FHE/MSM/94.4)",
+    "license": "WHO-freely-reproducible",
+    "content": "Page render from WHO partograph multicentre study report",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_safe_motherhood_pages/who_safe_motherhood_p16.png",
+    "source": "WHO 1994 Multicentre Study Report (FHE/MSM/94.4)",
+    "license": "WHO-freely-reproducible",
+    "content": "Page render from WHO partograph multicentre study report",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_safe_motherhood_pages/who_safe_motherhood_p17.png",
+    "source": "WHO 1994 Multicentre Study Report (FHE/MSM/94.4)",
+    "license": "WHO-freely-reproducible",
+    "content": "Page render from WHO partograph multicentre study report",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_safe_motherhood_pages/who_safe_motherhood_p18.png",
+    "source": "WHO 1994 Multicentre Study Report (FHE/MSM/94.4)",
+    "license": "WHO-freely-reproducible",
+    "content": "Page render from WHO partograph multicentre study report",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_safe_motherhood_pages/who_safe_motherhood_p19.png",
+    "source": "WHO 1994 Multicentre Study Report (FHE/MSM/94.4)",
+    "license": "WHO-freely-reproducible",
+    "content": "Page render from WHO partograph multicentre study report",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_safe_motherhood_pages/who_safe_motherhood_p2.png",
+    "source": "WHO 1994 Multicentre Study Report (FHE/MSM/94.4)",
+    "license": "WHO-freely-reproducible",
+    "content": "Page render from WHO partograph multicentre study report",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_safe_motherhood_pages/who_safe_motherhood_p20.png",
+    "source": "WHO 1994 Multicentre Study Report (FHE/MSM/94.4)",
+    "license": "WHO-freely-reproducible",
+    "content": "Page render from WHO partograph multicentre study report",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_safe_motherhood_pages/who_safe_motherhood_p21.png",
+    "source": "WHO 1994 Multicentre Study Report (FHE/MSM/94.4)",
+    "license": "WHO-freely-reproducible",
+    "content": "Page render from WHO partograph multicentre study report",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_safe_motherhood_pages/who_safe_motherhood_p22.png",
+    "source": "WHO 1994 Multicentre Study Report (FHE/MSM/94.4)",
+    "license": "WHO-freely-reproducible",
+    "content": "Page render from WHO partograph multicentre study report",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_safe_motherhood_pages/who_safe_motherhood_p23.png",
+    "source": "WHO 1994 Multicentre Study Report (FHE/MSM/94.4)",
+    "license": "WHO-freely-reproducible",
+    "content": "Page render from WHO partograph multicentre study report",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_safe_motherhood_pages/who_safe_motherhood_p24.png",
+    "source": "WHO 1994 Multicentre Study Report (FHE/MSM/94.4)",
+    "license": "WHO-freely-reproducible",
+    "content": "Page render from WHO partograph multicentre study report",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_safe_motherhood_pages/who_safe_motherhood_p25.png",
+    "source": "WHO 1994 Multicentre Study Report (FHE/MSM/94.4)",
+    "license": "WHO-freely-reproducible",
+    "content": "Page render from WHO partograph multicentre study report",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_safe_motherhood_pages/who_safe_motherhood_p26.png",
+    "source": "WHO 1994 Multicentre Study Report (FHE/MSM/94.4)",
+    "license": "WHO-freely-reproducible",
+    "content": "Page render from WHO partograph multicentre study report",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_safe_motherhood_pages/who_safe_motherhood_p3.png",
+    "source": "WHO 1994 Multicentre Study Report (FHE/MSM/94.4)",
+    "license": "WHO-freely-reproducible",
+    "content": "Page render from WHO partograph multicentre study report",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_safe_motherhood_pages/who_safe_motherhood_p4.png",
+    "source": "WHO 1994 Multicentre Study Report (FHE/MSM/94.4)",
+    "license": "WHO-freely-reproducible",
+    "content": "Page render from WHO partograph multicentre study report",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_safe_motherhood_pages/who_safe_motherhood_p5.png",
+    "source": "WHO 1994 Multicentre Study Report (FHE/MSM/94.4)",
+    "license": "WHO-freely-reproducible",
+    "content": "Page render from WHO partograph multicentre study report",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_safe_motherhood_pages/who_safe_motherhood_p6.png",
+    "source": "WHO 1994 Multicentre Study Report (FHE/MSM/94.4)",
+    "license": "WHO-freely-reproducible",
+    "content": "Page render from WHO partograph multicentre study report",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_safe_motherhood_pages/who_safe_motherhood_p7.png",
+    "source": "WHO 1994 Multicentre Study Report (FHE/MSM/94.4)",
+    "license": "WHO-freely-reproducible",
+    "content": "Page render from WHO partograph multicentre study report",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_safe_motherhood_pages/who_safe_motherhood_p8.png",
+    "source": "WHO 1994 Multicentre Study Report (FHE/MSM/94.4)",
+    "license": "WHO-freely-reproducible",
+    "content": "Page render from WHO partograph multicentre study report",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/who_safe_motherhood_pages/who_safe_motherhood_p9.png",
+    "source": "WHO 1994 Multicentre Study Report (FHE/MSM/94.4)",
+    "license": "WHO-freely-reproducible",
+    "content": "Page render from WHO partograph multicentre study report",
+    "phi_risk": 0
+  },
+  {
+    "path": "harvested/wikimedia/partogramm_disc_nsioni_2005.jpg",
+    "source": "Dr. Bernhard R\u00f6mhild 2005, Wikimedia Commons",
+    "license": "Copyrighted-free-use",
+    "content": "Rotatable disc/wheel partograph model (NSIONI design), non-standard form variant",
+    "phi_risk": 0
+  }
+]

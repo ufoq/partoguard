@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">PartoGuard</string>
+    <string name="app_tagline">Read partographs faster. Catch warning signs sooner.</string>
+
+    <string name="home_action_live">Capture partograph</string>
+    <string name="home_action_demo">Try demo</string>
+    <string name="home_capture_title">Photograph the ward chart</string>
+    <string name="home_capture_subtitle">Align the cervicograph in the frame. Analysis runs on this device.</string>
+    <string name="home_section_demo">Demo data</string>
+    <string name="home_section_modes">Mode</string>
+    <string name="mode_auto">Automatic</string>
+    <string name="mode_auto_desc">Model extracts, midwife confirms.</string>
+    <string name="mode_assisted">Assisted</string>
+    <string name="mode_assisted_desc">Edit model output before rules run.</string>
+    <string name="mode_manual">Manual</string>
+    <string name="mode_manual_desc">Plot points yourself, skip the model.</string>
+
+    <string name="camera_capture">Capture and analyze</string>
+    <string name="camera_align_hint">Align the cervicograph inside the frame</string>
+    <string name="camera_lighting_hint">Hold steady. Even lighting, no glare.</string>
+    <string name="camera_permission_title">Camera access</string>
+    <string name="camera_permission_rationale">PartoGuard needs the camera to photograph the partograph on the ward chart.</string>
+    <string name="camera_permission_grant">Grant access</string>
+    <string name="camera_capture_failed">Capture failed. Try again.</string>
+
+    <string name="analyzing_title">Analyzing partograph</string>
+    <string name="analyzing_step_quality">Checking image quality</string>
+    <string name="analyzing_step_extract">Reading marks with Gemma 4</string>
+    <string name="analyzing_step_validate">Validating extracted points</string>
+
+    <string name="review_title">Confirm extracted points</string>
+    <string name="review_subtitle">The midwife reviews and corrects before any clinical rule runs.</string>
+    <string name="review_confirm">Confirm and run rules</string>
+    <string name="review_add_point">Add point</string>
+    <string name="review_delete">Delete</string>
+    <string name="review_back">Back</string>
+    <string name="review_caption_hours">Hour</string>
+    <string name="review_caption_cm">Dilation (cm)</string>
+    <string name="review_caption_conf">Confidence</string>
+    <string name="review_no_points">No points detected. Add manually or recapture.</string>
+
+    <string name="results_title">Clinical assessment</string>
+    <string name="results_extracted">Extracted points</string>
+    <string name="results_status_normal">Normal progression</string>
+    <string name="results_status_alert">Alert zone crossed</string>
+    <string name="results_status_action">Action zone — escalate</string>
+    <string name="results_status_manual">Manual review required</string>
+    <string name="results_status_empty">No marks detected on the cervicograph</string>
+    <string name="results_disclaimer">Decision support only. Always verify with clinical judgment.</string>
+    <string name="results_analyze_another">Analyze another</string>
+    <string name="results_quality_label">Image quality</string>
+
+    <string name="quality_good">Good</string>
+    <string name="quality_blurry">Blurry</string>
+    <string name="quality_dim">Dim lighting</string>
+    <string name="quality_skewed">Skewed angle</string>
+
+    <string name="footer_offline">All processing happens on this device.</string>
+
+    <string name="cd_back">Back</string>
+    <string name="cd_capture_button">Capture frame</string>
+    <string name="cd_thumbnail">Sample partograph thumbnail</string>
+    <string name="cd_partograph_image">Partograph being analyzed</string>
+
+    <string name="debug_title">Debug: force next scan outcome</string>
+    <string name="debug_subtitle">QA override. The next extraction will return the selected outcome, then revert to default routing.</string>
+    <string name="debug_option_default">Default (by image / hash)</string>
+    <string name="debug_option_normal">Force NORMAL</string>
+    <string name="debug_option_alert">Force ALERT</string>
+    <string name="debug_option_action">Force ACTION</string>
+    <string name="debug_option_empty">Force EMPTY</string>
+    <string name="debug_close">Close</string>
+</resources>

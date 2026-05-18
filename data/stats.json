@@ -1,0 +1,26 @@
+{
+  "total_images": 350,
+  "by_category": {
+    "blank": 50,
+    "partial": 60,
+    "filled": 100,
+    "degraded": 80,
+    "obstructed": 60
+  },
+  "by_curve_type": {
+    "none": 50,
+    "rapid_precipitous": 73,
+    "slow_prolonged": 73,
+    "arrested": 73,
+    "normal": 81
+  },
+  "by_pen_style": {
+    "none": 50,
+    "felt_tip": 75,
+    "pencil": 84,
+    "shaky": 76,
+    "ballpoint": 65
+  },
+  "fullpage_count": 183,
+  "crop_count": 167
+}

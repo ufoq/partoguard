@@ -1,0 +1,18 @@
+PartoGuard
+Copyright 2026 PartoGuard Contributors
+
+This project uses Gemma 4 by Google DeepMind.
+Gemma 4 is licensed under the Apache License 2.0.
+Copyright Google LLC.
+
+This project is not affiliated with, endorsed by, or sponsored by
+Google, Google DeepMind, or Kaggle.
+
+The fine-tuned LoRA adapters and merged model weights in this project
+are derived from Gemma 4 and are released under the Apache License 2.0.
+
+Third-party components used in this project retain their original
+licenses. See THIRD_PARTY_NOTICES.md for details.
+
+Datasets used for training and evaluation retain their original licenses.
+See DATA_LICENSES.md for details.

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand_primary">#0E5C8A</color>
+    <color name="brand_primary_dark">#083E5E</color>
+    <color name="brand_surface">#FBFCFE</color>
+    <color name="brand_on_surface">#0B1F2D</color>
+    <color name="status_normal">#1B8E5A</color>
+    <color name="status_alert">#F4A700</color>
+    <color name="status_action">#C62828</color>
+    <color name="status_manual">#5C6B73</color>
+</resources>

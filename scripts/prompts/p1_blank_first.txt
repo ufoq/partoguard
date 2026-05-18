@@ -1,0 +1,15 @@
+You are reading a modified WHO partograph chart.
+
+CRITICAL FIRST STEP: Before listing any marks, decide whether the chart contains ANY handwritten X marks in the cervical-dilation plot area. The plot area is the grid bounded by the x-axis (hours 0 to 12) and the y-axis (dilation 0 to 10 cm).
+
+If you cannot clearly see at least one handwritten X mark drawn by a clinician inside the plot area, output exactly this and nothing else:
+{"p":[]}
+
+A blank or unmarked chart MUST produce {"p":[]}. The printed grid lines, axis numbers, axis labels, the diagonal Alert line, the diagonal Action line, the header text, and any text in margins are NOT marks. Do NOT invent marks. Do NOT guess what marks "should" be there. Do NOT interpolate or extrapolate.
+
+Only if you can clearly see handwritten X marks, list them. For each visible X mark, output its position as [x_hours, dilation_cm, confidence] where x_hours is rounded to the nearest 0.5 in [0, 12], dilation_cm is rounded to the nearest 0.5 in [0, 10], and confidence is in [0, 1].
+
+Output compact JSON only, no markdown, no prose, no commentary. Schema:
+{"p":[[h,d,c],...]}
+
+Empty chart -> {"p":[]}

@@ -1,0 +1,31 @@
+You are reading a modified WHO partograph chart. Your task: identify ONLY the handwritten X marks plotted in the CERVICOGRAPH (cervical dilation plot).
+
+THE CERVICOGRAPH is one specific plot on the form. It has ALL of these:
+- A vertical axis labeled "Cervical dilation (cm)" with ticks 0 to 10.
+- A horizontal axis labeled "Hours" with ticks 0 to 12 (or similar).
+- Two diagonal lines crossing the plot: the Alert line and the Action line.
+- Clinician marks are drawn as X (two short lines crossing at one point).
+
+IGNORE everything else on the form, even if it looks like an X or contains marks:
+- Fetal Heart Rate plot (different vertical scale, usually 100-200 bpm; uses dots or connected line, NOT X marks).
+- Contraction bars (hatched/shaded rectangles at the bottom).
+- Drug, IV fluids, urine, BP, pulse rows (text or arrow-style entries).
+- Patient header text (name fields, dates, times).
+- Grid lines, axis numbers, axis labels, diagonal Alert/Action lines themselves.
+
+COUNTING RULE (strict):
+1. First, silently count how many true X marks are inside the cervicograph plot area. A true X mark has TWO short pen strokes that cross at one point. A dot, a tick, a circle, or a number is NOT an X mark.
+2. Output that many points and no more. Do NOT add a mark just because the trajectory "should" continue. Do NOT add a mark just because an axis number is nearby.
+3. If ANY part of the cervicograph plot area is covered (finger, stain, fold, tape) and you cannot see the marks underneath, output only the X marks you can clearly see and stop. Do not guess what is under the obstruction.
+4. If you see ZERO X marks in the cervicograph, output exactly: {"p":[]}
+
+COORDINATE RULE:
+- x_hours = hours on the horizontal axis where the X is centred, rounded to the nearest 0.5, range 0 to 12.
+- dilation_cm = cervical dilation on the vertical axis where the X is centred, rounded to the nearest 0.5, range 0 to 10.
+- confidence = your confidence the mark is real and correctly placed, in [0, 1].
+
+OUTPUT: compact JSON only. No markdown. No prose. No explanation.
+
+Schema: {"p":[[x_hours, dilation_cm, confidence], ...]}
+
+Empty cervicograph: {"p":[]}

@@ -1,0 +1,44 @@
+[
+  {
+    "path": "blank_0025.png",
+    "category": "blank",
+    "curve_type": "none",
+    "n_marks": 0
+  },
+  {
+    "path": "filled_0152.png",
+    "category": "filled",
+    "curve_type": "normal",
+    "n_marks": 7
+  },
+  {
+    "path": "filled_0163.png",
+    "category": "filled",
+    "curve_type": "arrested",
+    "n_marks": 6
+  },
+  {
+    "path": "filled_0155.png",
+    "category": "filled",
+    "curve_type": "rapid_precipitous",
+    "n_marks": 5
+  },
+  {
+    "path": "partial_0050.png",
+    "category": "partial",
+    "curve_type": "rapid_precipitous",
+    "n_marks": 3
+  },
+  {
+    "path": "obstructed_0333.png",
+    "category": "obstructed",
+    "curve_type": "arrested",
+    "n_marks": 8
+  },
+  {
+    "path": "degraded_0257.png",
+    "category": "degraded",
+    "curve_type": "slow_prolonged",
+    "n_marks": 6
+  }
+]

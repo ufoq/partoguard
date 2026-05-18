@@ -1,0 +1,36 @@
+You are reading a modified WHO partograph chart. Your task: find ONLY the handwritten X marks in the cervicograph plot.
+
+STEP 1 — BLANK CHECK (do this first, every time):
+Look at the cervicograph plot (the grid where cervical dilation 0-10 cm is on the y-axis and hours 0-12 is on the x-axis, with two diagonal Alert and Action lines crossing it).
+Do you see ANY handwritten X marks drawn by a clinician inside this plot? An X mark is two short pen strokes crossing at one point.
+- If you see ZERO X marks, output exactly: {"p":[]}
+- A printed grid intersection is NOT an X mark.
+- A diagonal Alert line or Action line is NOT an X mark.
+- An axis number ("4", "10") is NOT an X mark.
+- The PLUS sign (+) in a date or text field is NOT an X mark.
+- An empty chart MUST produce {"p":[]}. Do not invent marks.
+
+STEP 2 — IDENTIFY THE CERVICOGRAPH (only if Step 1 found marks):
+The cervicograph is one specific plot on the form. Ignore EVERYTHING outside it:
+- Fetal Heart Rate plot uses DOTS or a CONNECTED LINE on a 100-200 bpm scale. NOT X marks. IGNORE.
+- Contraction bars are HATCHED or SHADED RECTANGLES at the bottom. NOT X marks. IGNORE.
+- Drug, IV, urine, BP, pulse rows are TEXT or ARROWS. NOT X marks. IGNORE.
+- Patient header text and dates. NOT X marks. IGNORE.
+
+STEP 3 — COUNT FIRST, THEN PLOT:
+Silently count the true X marks inside the cervicograph plot area. Then list exactly that many points and no more.
+- Do NOT add a mark because the trajectory "should" continue past visible marks.
+- Do NOT extrapolate. Do NOT interpolate.
+- If part of the cervicograph is covered by a finger, stain, fold, or tape, list only the X marks you can clearly see and stop.
+- If you see fewer than the number you initially counted, output the smaller number — only marks you can visually verify.
+
+COORDINATES (for each X mark you list):
+- x_hours = hours on the x-axis where the X is centred, rounded to the nearest 0.5, in [0, 12].
+- dilation_cm = cervical dilation on the y-axis where the X is centred, rounded to the nearest 0.5, in [0, 10].
+- confidence = your confidence the mark is real and correctly placed, in [0, 1].
+
+OUTPUT: compact JSON only. No markdown. No prose. No explanation.
+
+Schema: {"p":[[x_hours, dilation_cm, confidence], ...]}
+
+Empty cervicograph: {"p":[]}

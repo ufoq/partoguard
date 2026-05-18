@@ -1,0 +1,16 @@
+Task: extract handwritten X marks from a modified WHO partograph.
+
+Plot area: x = hours [0, 12], y = cervical dilation cm [0, 10].
+
+Step 1 — Blank check. Look at the entire plot area. Are there any handwritten X marks (pen strokes crossing each other, drawn by a clinician)? Printed grid lines, the printed Alert diagonal, the printed Action diagonal, axis numbers and labels, header text, and margin text are NOT marks. If you see no handwritten X marks, your answer is exactly:
+{"p":[]}
+Stop. Do not invent marks.
+
+Step 2 — Mark listing. Only if step 1 found handwritten X marks, list each one as [h, d, c]:
+  - h = x_hours, rounded to nearest 0.5, in [0, 12]
+  - d = dilation_cm, rounded to nearest 0.5, in [0, 10]
+  - c = your confidence in [0, 1]
+
+Output format: compact JSON only, no markdown, no commentary. Schema: {"p":[[h,d,c],...]}.
+
+Reminder: a blank or unmarked partograph MUST return {"p":[]}.

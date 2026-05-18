@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+*.egg-info/
+.eggs/
+dist/
+build/
+.venv/
+venv/
+*.egg
+
+# Android / Gradle
+.gradle/
+.kotlin/
+*/build/
+*.cxx/
+local.properties
+*.jks
+*.keystore
+*.apk
+*.aab
+
+# NDK symlink (set up via android/llama/setup-llama.sh)
+android/llama/src/main/cpp/llama.cpp
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Editor
+.idea/
+*.iml
+.vscode/
+
+# Secrets
+.env
+*.env
+secrets/
